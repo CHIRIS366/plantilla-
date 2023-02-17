@@ -1,0 +1,12 @@
+? Choose a template
+> Hello World
+  Demo Store
+? Choose a language
+> JavaScript
+  TypeScript
+Where would you like to create your app?
+> hydrogen-storefront
+  ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+cd <app-directory>
+npm run dev
+
